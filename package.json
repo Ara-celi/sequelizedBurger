@@ -1,0 +1,28 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ara-celi/sequelizedBurger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ara-celi/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/Ara-celi/sequelizedBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0",
+    "mysql2": "^1.1.2",
+    "sequelize": "^3.30.1"
+  }
+}
