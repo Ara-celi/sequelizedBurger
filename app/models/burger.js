@@ -19,7 +19,7 @@ var Burgers = sequelize.define("burgers", {
   devoured: {
     type: Sequelize.BOOLEAN
     default: false
-  }
+  },
 });
 
 // Syncs with DB
